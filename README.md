@@ -1,4 +1,9 @@
-### Hi there 👋
+![Banner](./githubbanner.jpg)
+
+### Hi there 👋!
+  Thank you for visiting my GitHub page.   My Name is Don Ark and I have worked in the technoology field for well over 20 years.   I am currently an IT Manager looking to expand in other aspects of technology,  specifically coding! I look forward to the challenges of the vast world of coding and hopefully set my mark.  I am inquisitive and eager to learn.
+  
+  
 
 <!--
 **donark1/donark1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
