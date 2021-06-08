@@ -10,16 +10,16 @@
 
 ### Applications
 
-<img src="./server/public/images/Med-Self_Logo.jpg" width="400">
+<img src="./Med-Self_Logo.jpg" width="400">
 
 A full-stack medical application that allows users to select their body ailment and specify what symptoms they are experiencing in order to better diagnosis and suggest proper treatments. Developed using Javascript ES6, React, Node.js, Express, PostgreSQL, Bootstrap 4, CSS3, HTML5, npm, Webpack, Pgweb, Figma.
 
 Live Preview: [Med-Self](https://med-self.herokuapp.com/)
 
 
-<img src="./img/sgt.png" width="400">
+<img src="./sgt.png" width="400">
 
-# Student Grade Table
+
 An interactive JavaScript application that communicates with a server to manage grade records. Developed using HTML5, CSS3, JavaScript ES6, Bootstrap 4, Node.js.
 
 
