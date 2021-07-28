@@ -16,7 +16,7 @@ A full-stack medical application that allows users to select their body ailment 
 
 Live Preview: [Med-Self](https://med-self.herokuapp.com/)
 
-<img src="./images/hoopslalogo.jpg" width="400">
+<img src="./hoopslalogo.jpg" width="400">
 
 # Hoopsla
 
