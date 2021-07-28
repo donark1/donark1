@@ -22,7 +22,7 @@ Live Preview: [Med-Self](https://med-self.herokuapp.com/)
 
 An simplistically styled basketball application to get you stats. Developed using HTML5, CSS3, JavaScript ES6, Bootstrap 4, AJAX, Figma.
 
-Live Preview: [hoopsla](https://donark1.github.io/hoopsla/)
+Live Preview: [Hoopsla](https://donark1.github.io/hoopsla/)
 
 <img src="./sgt.png" width="400">
 
