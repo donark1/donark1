@@ -16,9 +16,17 @@ A full-stack medical application that allows users to select their body ailment 
 
 Live Preview: [Med-Self](https://med-self.herokuapp.com/)
 
+<img src="./images/hoopslalogo.jpg" width="400">
+
+# Hoopsla
+
+An simplistically styled basketball application to get you stats. Developed using HTML5, CSS3, JavaScript ES6, Bootstrap 4, AJAX, Figma.
+
+Live Preview: [hoopsla](https://donark1.github.io/hoopsla/)
 
 <img src="./sgt.png" width="400">
 
+# Student Grade Table
 
 An interactive JavaScript application that communicates with a server to manage grade records. Developed using HTML5, CSS3, JavaScript ES6, Bootstrap 4, Node.js.
 
