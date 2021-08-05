@@ -18,7 +18,7 @@ Live Preview: [Med-Self](https://med-self.herokuapp.com/)
 
 <img src="./hoopslalogo.jpg" width="400">
 
-# _____________________________________________
+# ---------------------------------------------
 
 An simplistically styled basketball application to get you stats. Developed using HTML5, CSS3, JavaScript ES6, Bootstrap 4, AJAX, Figma.
 
@@ -26,7 +26,7 @@ Live Preview: [Hoopsla](https://donark1.github.io/hoopsla/)
 
 <img src="./sgt.png" width="400">
 
-# _____________________________________________
+# ---------------------------------------------
 
 An interactive JavaScript application that communicates with a server to manage grade records. Developed using HTML5, CSS3, JavaScript ES6, Bootstrap 4, Node.js.
 
