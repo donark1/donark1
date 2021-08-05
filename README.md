@@ -24,9 +24,11 @@ An simplistically styled basketball application to get you stats. Developed usin
 
 Live Preview: [Hoopsla](https://donark1.github.io/hoopsla/)
 
+# ---------------------------------------------
+
 <img src="./sgt.png" width="400">
 
-# ---------------------------------------------
+Live Preview: [Student Grade Table](https://donark1.github.io/student-grade-table/)
 
 An interactive JavaScript application that communicates with a server to manage grade records. Developed using HTML5, CSS3, JavaScript ES6, Bootstrap 4, Node.js.
 
