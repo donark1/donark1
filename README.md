@@ -16,9 +16,9 @@ A full-stack medical application that allows users to select their body ailment 
 
 Live Preview: [Med-Self](https://med-self.herokuapp.com/)
 
-<img src="./hoopslalogo.jpg" width="400">
-
 # ---------------------------------------------
+
+<img src="./hoopslalogo.jpg" width="400">
 
 An simplistically styled basketball application to get you stats. Developed using HTML5, CSS3, JavaScript ES6, Bootstrap 4, AJAX, Figma.
 
