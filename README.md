@@ -26,15 +26,15 @@ Live Preview: [Hoopsla](https://donark1.github.io/hoopsla/)
 
 # ---------------------------------------------
 
-### :email: Contact Me:
+### Contact Me:
 
-don_ark@sbcglobal.net
+:email: don_ark@sbcglobal.net
 
 ### More About Me
 
-LinkedIn Profile: [linkedin](https://www.linkedin.com/in/don-ark/)
+<img alt="HTML5" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> LinkedIn Profile: [linkedin](https://www.linkedin.com/in/don-ark/)
 
-My resume: [View](./DonArkResume.png)
+:page_with_curl: My resume: [View](./DonArkResume.png)
 
 <!--
 **donark1/donark1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
