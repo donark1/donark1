@@ -32,7 +32,7 @@ Live Preview: [Hoopsla](https://donark1.github.io/hoopsla/)
 
 ### More About Me
 
-<img alt="HTML5" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>: [Profile](https://www.linkedin.com/in/don-ark/)
+(./linkedin.png) : [Profile](https://www.linkedin.com/in/don-ark/)
 
 :page_with_curl: My resume: [View](./DonArkResume.png)
 
