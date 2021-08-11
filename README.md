@@ -24,13 +24,15 @@ An simplistically styled basketball application to get you stats. Developed usin
 
 Live Preview: [Hoopsla](https://donark1.github.io/hoopsla/)
 
+# ---------------------------------------------
+
 ### :email: Contact Me:
 
 don_ark@sbcglobal.net
 
 ### More About Me
 
-LinkedIn Profile: [LinkedIn](https://www.linkedin.com/in/don-ark/)
+LinkedIn Profile: [	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/don-ark/)
 
 My resume: [View](./DonArkResume.png)
 
