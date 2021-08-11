@@ -24,14 +24,15 @@ An simplistically styled basketball application to get you stats. Developed usin
 
 Live Preview: [Hoopsla](https://donark1.github.io/hoopsla/)
 
-# ---------------------------------------------
+### :email: Contact Me:
 
-<img src="./sgt.png" width="400">
+don_ark@sbcglobal.net
 
-Live Preview: [Student Grade Table](https://donark1.github.io/student-grade-table/)
+### More About Me
 
-An interactive JavaScript application that communicates with a server to manage grade records. Developed using HTML5, CSS3, JavaScript ES6, Bootstrap 4, Node.js.
+LinkedIn Profile: [LinkedIn](https://www.linkedin.com/in/don-ark/)
 
+My resume: [View](./)
 
 <!--
 **donark1/donark1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
